@@ -1,4 +1,3 @@
 # Hello-World
-The first repository
 
-"a bit about yourself"
+Hello World! for all languages I have started learning.
